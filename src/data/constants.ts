@@ -2,11 +2,10 @@ export const towns = [
   { name: 'Pensacola', slug: 'pensacola', businesses: 0 },
   { name: 'Pensacola Beach', slug: 'pensacola-beach', businesses: 0 },
   { name: 'Perdido Key', slug: 'perdido-key', businesses: 0 },
-  { name: 'Ferry Pass', slug: 'ferry-pass', businesses: 0 },
-  { name: 'Brent', slug: 'brent', businesses: 0 },
   { name: 'Cantonment', slug: 'cantonment', businesses: 0 },
+  { name: 'Bellview', slug: 'bellview', businesses: 0 },
+  { name: 'Ensley', slug: 'ensley', businesses: 0 },
 ];
-
 export const categories = [
   { name: 'Restaurants & Dining', slug: 'restaurants-dining', icon: '🍽️', count: 0 },
   { name: 'Shopping & Retail', slug: 'shopping-retail', icon: '🛍️', count: 0 },
@@ -27,7 +26,6 @@ export const categories = [
   { name: 'Accommodations', slug: 'accommodations', icon: '🏨', count: 0 },
   { name: 'Appliances & Rentals', slug: 'appliances-rentals', icon: '🔌', count: 0 },
 ];
-
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Listings', href: '/listings/' },
